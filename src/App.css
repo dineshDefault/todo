@@ -81,10 +81,9 @@ header {
   text-transform: capitalize;
   letter-spacing: 0.2px;
   background: white;
-  padding: 0 8px;
+  padding: 8px;
   border-radius: 6px;
   color: black;
-  height: 32px;
 }
 
 .list-item p {
@@ -92,6 +91,7 @@ header {
   display: flex;
   gap: 8px;
   align-items: center;
+  cursor: pointer;
 }
 
 .clear-completed {
