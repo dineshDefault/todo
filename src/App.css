@@ -104,9 +104,11 @@ header {
   font-weight: 600;
   transition: all 0.3s ease;
   letter-spacing: 0.5px;
+  border: 2px solid black;
 }
 
 .clear-completed:hover {
   background: #d88771;
   color: white;
+  border: 2px solid white;
 }
